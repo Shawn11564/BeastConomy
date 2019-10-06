@@ -1,0 +1,10 @@
+name: BeastConomy
+version: ${project.version}
+main: dev.mrshawn.beastconomy.BeastConomy
+api-version: 1.13
+prefix: BeastConomy
+depend: [Vault]
+softdepend: [PlaceholderAPI, MVdWPlaceholderAPI]
+authors: [MrShawn]
+description: Automate your servers economy!
+website: https://mrshawn.dev/
